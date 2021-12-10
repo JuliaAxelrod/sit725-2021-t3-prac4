@@ -1,3 +1,26 @@
+#sit725-2021-t3-prac4
+What I did in this assignment:
+
+Part I, \node-material
+
+1. fixed a few bugs from assignment 3, incuding typo which stopped sliding bar menu from working
+2. moved datepicker init from js script in index.html to jQuery in env.js file
+3. added modal form to index.html for data entry - to create dynamic cards with new projects
+4. implemented code to commit projects to MongoDB
+
+Part II, \SocketTest
+
+1. did someexperimenting with socket.io with view to implement chat using local server
+2. first window which plays back user input and supporting server side are ready
+
+What is not working:
+
+1. Modal closes without refreshing the index.html, I haven't found the reason yet
+2. datepicker is supposed to become one of the data entry elements for projects - and projects'structure needs to be modified accordingly - still working on it.
+
+Kind Regards,
+Julia
+
 # sit725-2021-t3-prac3
 
 Readme BY Julia Axelrod, replacing Readme by Dr. Alessio Bonti
